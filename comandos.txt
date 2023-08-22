@@ -1,0 +1,77 @@
+    1  pwd
+    2  ls
+    3  ls -lh
+    4  ls ..
+    5  ls -lah
+    6  ls -lh
+    7  touch Intenzamente.txt 
+    8  El juego del miedo.xls
+    9  Rapido y furioso.pdf
+   10  Titanic.jpg
+   11   
+   12  git --version
+   13  git init
+   14  git clone https://github.com/dahbit/dhclases.git
+   15  git config user.name "Davide"
+   16  git config user.email "davide.acv@gmail.com"
+   17  git remote add origin https://github.com/dahbit/dhclases.git
+   18  git remote -v
+   19  git log
+   20  git status
+   21  git add .
+   22  git commit -m "Prueba"
+   23  git add .
+   24  git status
+   25  git push origin master
+   26  git status
+   27  touch prueba.js
+   28  git add prueba.js
+   29  git commit -m "Cree prueba"
+   30  git push origin master
+   31  git commits
+   32  git history
+   33  ls
+   34  git branch -M feature01
+   35  ls
+   36  git rm main/Ecommerce
+   37  git rm main Ecommerce
+   38  cd ..
+   39  cd ,,
+   40  cd ..
+   41  cd ..
+   42  cd desktop
+   43  clear
+   44  exit
+   45  cd ..
+   46  cd intro
+   47  cd Checkpoint-DavidSandoval
+   48  git init
+   49  git remote add origin https://github.com/dahbit/checkpoint-DavidSandoval.git
+   50  git fetch
+   51  touch main.js index.html
+   52  git add main.js index.html
+   53  git commit -m 'Primer Commit David Sandoval'
+   54  git push -u origin main
+   55  git branch feature
+   56  git checkout feature
+   57  mkdir Hardware Software SeguridadInformatica
+   58  touch ./Hardware/resumen.txt
+   59  touch ./Software/resumen.txt ./SeguridadInformatica/resumen.txt
+   60  ls
+   61  git add .
+   62  git commit -m 'Agregando Archivos resumen David Sandoval'
+   63  git push -u origin feature
+   64  git checkout main
+   65  mv main.js resumeHardware.txt
+   66  mv index.html resumenSoftware.txt
+   67  mv resumeHardware.txt resumenHardware.txt
+   68  nano
+   69  nano resumenHardware.txt
+   70  nano resumenHardware.txt
+   71  nano resumenSoftware.txt
+   72  touch comandos.txt history
+   73  touch history comandos.txt
+   74  history
+   75  history touch comandos.txt
+   76  git history touch comandos.txt
+   77  history > comandos.txt
